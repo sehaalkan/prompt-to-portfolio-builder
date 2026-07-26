@@ -1,6 +1,20 @@
-# Visual Muse: AI-Driven Minimalist Editorial Portfolio Generator
+---
+# 📌 PROJECT DELIVERY DASHBOARD
 
-### 🌐 [Canlı Uygulama Linki](https://prompt-to-portfolio-builder.vercel.app) | 🖥️ [GitHub Repo Linki](https://github.com/sehaalkan/prompt-to-portfolio-builder)
+* **GitHub Repository:** https://github.com/sehaalkan/prompt-to-portfolio-builder
+* **Production Live Link:** https://prompt-to-portfolio-builder.vercel.app
+
+### 💡 Project Overview
+**Visual Muse**, ham fotoğraf arşivlerini saniyeler içinde lüks bir editoryal sanat dergisi mantığıyla dijital sergiye dönüştüren, Gemini API destekli minimalist bir portfolyo üretecidir.
+
+### ⚙️ Technology Stack & AI Integration
+* **Frontend Architecture:** Vite, React, Tailwind CSS
+* **Core AI Integration:** Gemini API (Context-Aware Prompt Engineering & Dynamic Tagging)
+* **Co-Programming & Infrastructure:** Cursor AI, Git, Vercel
+
+---
+
+# Visual Muse: AI-Driven Minimalist Editorial Portfolio Generator
 
 **Yönetim Bilişim Sistemleri (MIS) Final Projesi**  
 Fotoğrafçılar ve görsel içerik üreticileri için yapay zeka destekli, editoryal portfolyo oluşturma platformu.
@@ -10,8 +24,6 @@ Fotoğrafçılar ve görsel içerik üreticileri için yapay zeka destekli, edit
 ## Proje Özeti
 
 Visual Muse (Prompt-to-Portfolio Builder); kullanıcının kimlik bilgilerini, estetik tercihlerini ve fotoğraflarını üç adımlı bir sihirbaz (wizard) arayüzü üzerinden toplayan, Google Gemini 2.5 Flash multimodal modeli ile görselleri analiz eden ve sonuçları bağımsız bir HTML dosyası olarak dışa aktaran web tabanlı bir uygulamadır. Proje; teknik uygulama, yapay zeka entegrasyonu ve kullanıcı deneyimi boyutlarında bütünleşik bir MIS çözümü sunmayı hedefler.
-
-**Geliştirme:** React 19 · TypeScript · Vite · Tailwind CSS
 
 ---
 
