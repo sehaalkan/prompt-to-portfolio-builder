@@ -1,4 +1,6 @@
-# Prompt-to-Portfolio Builder
+# Visual Muse: AI-Driven Minimalist Editorial Portfolio Generator
+
+### 🌐 [Canlı Uygulama Linki](https://prompt-to-portfolio-builder.vercel.app) | 🖥️ [GitHub Repo Linki](https://github.com/sehaalkan/prompt-to-portfolio-builder)
 
 **Yönetim Bilişim Sistemleri (MIS) Final Projesi**  
 Fotoğrafçılar ve görsel içerik üreticileri için yapay zeka destekli, editoryal portfolyo oluşturma platformu.
@@ -7,9 +9,8 @@ Fotoğrafçılar ve görsel içerik üreticileri için yapay zeka destekli, edit
 
 ## Proje Özeti
 
-Prompt-to-Portfolio Builder; kullanıcının kimlik bilgilerini, estetik tercihlerini ve fotoğraflarını üç adımlı bir sihirbaz (wizard) arayüzü üzerinden toplayan, Google Gemini 2.5 Flash multimodal modeli ile görselleri analiz eden ve sonuçları bağımsız bir HTML dosyası olarak dışa aktaran web tabanlı bir uygulamadır. Proje; teknik uygulama, yapay zeka entegrasyonu ve kullanıcı deneyimi boyutlarında bütünleşik bir MIS çözümü sunmayı hedefler.
+Visual Muse (Prompt-to-Portfolio Builder); kullanıcının kimlik bilgilerini, estetik tercihlerini ve fotoğraflarını üç adımlı bir sihirbaz (wizard) arayüzü üzerinden toplayan, Google Gemini 2.5 Flash multimodal modeli ile görselleri analiz eden ve sonuçları bağımsız bir HTML dosyası olarak dışa aktaran web tabanlı bir uygulamadır. Proje; teknik uygulama, yapay zeka entegrasyonu ve kullanıcı deneyimi boyutlarında bütünleşik bir MIS çözümü sunmayı hedefler.
 
-**Canlı Demo:** Vercel üzerinden dağıtıma hazır  
 **Geliştirme:** React 19 · TypeScript · Vite · Tailwind CSS
 
 ---
