@@ -1,4 +1,3 @@
----
 # 📌 PROJECT DELIVERY DASHBOARD
 
 * **GitHub Repository:** https://github.com/sehaalkan/prompt-to-portfolio-builder
@@ -11,8 +10,6 @@
 * **Frontend Architecture:** Vite, React, Tailwind CSS
 * **Core AI Integration:** Gemini API (Context-Aware Prompt Engineering & Dynamic Tagging)
 * **Co-Programming & Infrastructure:** Cursor AI, Git, Vercel
-
----
 
 # Visual Muse: AI-Driven Minimalist Editorial Portfolio Generator
 
